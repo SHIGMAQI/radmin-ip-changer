@@ -30,7 +30,7 @@ Open regedit (Windows Registry Editor)
 
 Search for Radmin to find the exact registry key name used by your Radmin VPN installation
 
-Open the change_ip.py script and update the registry key name accordingly in the code
+Open the RadminIpChanger.py script and update the registry key name accordingly in the code
 
 This will allow the script to locate and modify the correct registry entry for your Radmin VPN IP.
 
