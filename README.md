@@ -18,7 +18,7 @@ A Python script to automate changing the IP address of the Radmin VPN client. Th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/radmin-ip-changer.git
+   git clone https://github.com/SHIGMAQI/radmin-ip-changer.git
    cd radmin-ip-changer
 
 
